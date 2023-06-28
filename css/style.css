@@ -1,0 +1,32 @@
+* {
+	margin:0;
+	padding:0;
+  	box-sizing:border-box;
+	}
+
+#head{
+		margin:auto;
+		width:25%;
+		padding:60px 20px;
+		
+		
+}
+span {
+		color:#0edde8;
+
+}
+img {width:100%;}
+#karan{
+		padding:10px 0px ;
+		
+		
+}
+#para{padding:10 0px;
+		
+}
+#para{
+padding:10px 0px;
+
+}
+a{text-decoration:none;}
+#last{color:#1326f0;}
